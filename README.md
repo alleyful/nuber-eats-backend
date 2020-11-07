@@ -26,3 +26,10 @@ The Backend of Nuber Eats Clone
   ]
 }
 ```
+
+### Restaurants
+- Restaurant CRUD
+- Dish CRUD
+- Realtime Order Notifications
+- Sales Dashboard (Data Visualization)
+- Premium Feature (Online Payments)
