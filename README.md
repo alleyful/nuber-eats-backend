@@ -26,32 +26,20 @@ The Backend of Nuber Eats Clone
   ]
 }
 ```
+## User Model:
 
-### Restaurants
-- Restaurant CRUD
-- Dish CRUD
-- Realtime Order Notifications
-- Sales Dashboard (Data Visualization)
-- Premium Feature (Online Payments)
+- id
+- createdAt
+- updatedAt
 
-### Users
-- User Authentication
-- Email Verification
-- Realtime Location Reporting
-- Avatar Upload
-- User / Delivery Man / Restaurant Owner Profile
+- email
+- password
+- role(client|owner|delivery)
 
-### Nest Concepts
-- Modules
-- Guards
-- Middlewares
-- Decorators
+## User CRUD:
 
-### Features
-- Online Payments
-- Google Maps
-- Unit Testing
-- End to End Testing
-- Data Visualization
-- Tailwind CSS
-- JWT Authentication
+- Create Account
+- Log In
+- See Profile
+- Edit Profile
+- Verify Email
